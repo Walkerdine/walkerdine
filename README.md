@@ -1,4 +1,4 @@
-+[![binarysearch](https://binarysearch.com/api/shields/walkerdine)](https://binarysearch.com/@/walkerdine)
++[![binarysearch](https://binarysearch.com/api/shields/Walkerdine)](https://binarysearch.com/@/Walkerdine)
 
 <!--
 **Walkerdine/walkerdine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
